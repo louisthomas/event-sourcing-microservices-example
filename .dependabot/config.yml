@@ -1,0 +1,25 @@
+version: 1
+update_configs:
+  - package_manager: "java:maven"
+    directory: "/"
+    update_schedule: "weekly"
+
+  - package_manager: "java:maven"
+    directory: "/discovery-service"
+    update_schedule: "weekly"
+
+  - package_manager: "java:maven"
+    directory: "/edge-service"
+    update_schedule: "weekly"
+  
+  - package_manager: "java:maven"
+    directory: "/friend-service"
+    update_schedule: "weekly"
+  
+  - package_manager: "java:maven"
+    directory: "/recommanmdation-service"
+    update_schedule: "weekly"
+
+  - package_manager: "java:maven"
+    directory: "/user-service"
+    update_schedule: "weekly"
