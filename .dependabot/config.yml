@@ -17,7 +17,7 @@ update_configs:
     update_schedule: "weekly"
   
   - package_manager: "java:maven"
-    directory: "/recommanmdation-service"
+    directory: "/recommendation-service"
     update_schedule: "weekly"
 
   - package_manager: "java:maven"
