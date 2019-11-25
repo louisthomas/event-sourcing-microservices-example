@@ -39,7 +39,7 @@
         <dependency>
             <groupId>io.r2dbc</groupId>
             <artifactId>r2dbc-postgresql</artifactId>
-            <version>1.0.0.M7</version>
+            <version>1.0.0.ISSUE-10-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.liquibase</groupId>
