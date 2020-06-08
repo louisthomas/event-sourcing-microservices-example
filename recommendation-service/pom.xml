@@ -18,7 +18,7 @@
     </parent>
 
     <properties>
-        <neo4j.version>3.5.11</neo4j.version>
+        <neo4j.version>4.0.5</neo4j.version>
     </properties>
 
     <dependencies>
