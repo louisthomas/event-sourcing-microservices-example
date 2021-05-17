@@ -23,7 +23,7 @@
         <spring-cloud.version>Greenwich.SR3</spring-cloud.version>
         <spring-data-releasetrain.version>1.4.6.RELEASE</spring-data-releasetrain.version>
         <docker.user>hyperskale</docker.user>
-        <micrometer.version>1.3.0</micrometer.version>
+        <micrometer.version>1.7.0</micrometer.version>
     </properties>
 
     <modules>
